@@ -1,6 +1,6 @@
 {
-  "name": "simjuno/sdk",
-  "version": "0.0.6",
+  "name": "simjuno/simjuno",
+  "version": "0.0.5",
   "description": "Simjuno PHP Library",
   "keywords": [
     "simjuno",

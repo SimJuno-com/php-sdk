@@ -53,8 +53,8 @@ class SimjunoClient
             'x-api-key' => $apiKey,
             'X-Fern-Language' => 'PHP',
             'X-Fern-SDK-Name' => 'Simjuno',
-            'X-Fern-SDK-Version' => '0.0.6',
-            'User-Agent' => 'simjuno/simjuno/0.0.6',
+            'X-Fern-SDK-Version' => '0.0.5',
+            'User-Agent' => 'simjuno/simjuno/0.0.5',
         ];
 
         $this->options = $options ?? [];
